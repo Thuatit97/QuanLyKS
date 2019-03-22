@@ -16,3 +16,6 @@ D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.exe
 D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.xml
 D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.pdb
 >>>>>>> e2cabefbf6f5deeccb3e048c333d69589f2a6f51
+D:\LinhThay\hhhh\QuanLyKS\haha\haha\obj\x86\Debug\haha.exe
+D:\LinhThay\hhhh\QuanLyKS\haha\haha\obj\x86\Debug\haha.xml
+D:\LinhThay\hhhh\QuanLyKS\haha\haha\obj\x86\Debug\haha.pdb
