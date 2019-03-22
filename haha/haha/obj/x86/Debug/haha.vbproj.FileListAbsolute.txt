@@ -1,0 +1,9 @@
+C:\Users\hp\AppData\Local\Temporary Projects\haha\bin\Debug\haha.exe
+C:\Users\hp\AppData\Local\Temporary Projects\haha\bin\Debug\haha.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\haha\bin\Debug\haha.xml
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.Form1.resources
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.Resources.resources
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.vbproj.GenerateResource.Cache
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.exe
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.xml
+C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.pdb
