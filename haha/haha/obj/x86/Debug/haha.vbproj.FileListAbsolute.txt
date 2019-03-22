@@ -7,3 +7,6 @@ C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.vbproj.Gene
 C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.exe
 C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.xml
 C:\Users\hp\AppData\Local\Temporary Projects\haha\obj\x86\Debug\haha.pdb
+D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.exe
+D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.xml
+D:\QuanLyKS\QuanLyKS\haha\haha\obj\x86\Debug\haha.pdb
